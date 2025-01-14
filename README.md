@@ -2,8 +2,7 @@
 
 The **CDP Chatbot** is a web-based application designed to assist users with questions related to Customer Data Platforms (CDP). Built using Python, Flask, and Hugging Face's `transformers` library, this chatbot delivers intelligent responses to user queries about CDP usage and integration. The application features a user-friendly interface and seamless communication between users and the chatbot.
 
-http://127.0.0.1:5000
----
+
 
 ## Features
 
